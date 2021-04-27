@@ -11,7 +11,7 @@ for i in range (personas):
     nombre = input('Ingrese su nombre: ')
     apellido = input('Ingrese su apellido: ')
     edad = int(input('Ingrese su edad: '))
-    while edad < 1  or edad >120:
+    while edad < 1  or edad >=120:
         edad = int(input('Su edad debe ser mayor a 0 y menor o igual a 120. Ingrese su edad nuevamente: '))
     if edad < 18:
         condicion = 'menor'
@@ -19,7 +19,5 @@ for i in range (personas):
         condicion = 'mayor'
     elif edad < 120:
         condicion = 'jubilado'
-    else:
-        condicion = 'cadaver'
     #print('Su nombre es: '+ nombre+ " " +apellido + ' y usted es '+condicion)
     print('Su nombre es:',nombre, apellido,'y usted es',condicion)
