@@ -15,3 +15,4 @@
 # 41 y 50 --> ropa de crisis de la mediana edad
 # mas de 50 --> boinas y vestidos floreados
 # chusmear paginas codewars.com, hackerrank y adventofcode
+#Se puede usar el metodo Capitalize
