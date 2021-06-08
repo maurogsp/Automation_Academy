@@ -1,0 +1,9 @@
+Agregar 4 items
+marcar 2
+seleccionar el boton active y que se muestren solo los no soleccionados
+seleccionar el boton completed y que se muestren solo los seleccionados
+seleccionar el boton all y que se muestren de nuevo todos los items
+
+Agregar un item, luego hacer click en la x y verificar que el mismo se borre de la lista
+
+agregar un item y luego hacer doble click, editarlo y darle enter, verificar que se haya guardado modificado
