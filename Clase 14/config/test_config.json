@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://automationpractice.com",
+  "timeout": 20,
+  "screenshot_dir": "/screenshots",
+  "browser": "chrome"
+}
